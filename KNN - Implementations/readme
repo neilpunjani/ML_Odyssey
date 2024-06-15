@@ -1,1 +1,2 @@
-
+In the first KNN Classifier the following was conducted:
+In this detailed project, my aim was to optimize a predictive model for graduate admissions using various statistical techniques and machine learning algorithms. The project involved initial data preparation steps such as feature selection via decision trees and assessing the impact of standardization on our models. I utilized a K-nearest neighbors approach, tuning the number of neighbors for best results, alongside developing a decision tree classifier, where I adjusted the max_depth and min_samples_split based on cross-validation feedback. These methodologies allowed for a systematic enhancement of the model's accuracy, ultimately leading to a successful prediction rate of 87.33% on the test dataset.
