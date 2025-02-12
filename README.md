@@ -1,1 +1,1 @@
-This repository contains all of my Machine Learning Projects.
+This repository contains my Machine Learning Projects.
