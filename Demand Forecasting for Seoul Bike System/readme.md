@@ -99,6 +99,10 @@ Random Forest outperformed linear regression (RMSE: 254.02, MAE: 153.01, R²: 0.
 
 ![image](https://github.com/user-attachments/assets/46f2fd35-eb79-4368-8718-b8b94dfbe840)
 
+**Ensemble Model Breakdown:**
+
+![image](https://github.com/user-attachments/assets/ca264760-86a9-459a-8670-cd6ea65ab8f1)
+
 **Result on best model on Unseen Test Data:**
 
 ![image](https://github.com/user-attachments/assets/47d0bb16-0fd6-41a8-a520-c9b9140df4cc)
