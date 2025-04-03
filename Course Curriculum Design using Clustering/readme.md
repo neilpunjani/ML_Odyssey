@@ -1,7 +1,5 @@
 # Constructing a Master of Business and Management in Data Science and Artificial Intelligence Course Curriculum with Unsupervised ML (K-Means and Hierarchical Clustering)
 
-## Project Introduction and Executive Summary
-
 One of the biggest challenges in education today is keeping course content aligned with the fast changing demands of the job market. Too often, students graduate with gaps in skills that employers expect from day one.
 
 This project takes a data first approach to solving that problem.
@@ -14,5 +12,4 @@ Dimensionality reduction techniques like PCA helped visualize the structure of t
 
 The final result is a full course structure made up of 8 to 12 carefully designed modules. Each module covers a unique mix of technical tools, business concepts, and soft skills that were frequently linked together in job descriptions. This coursework reflects how real skills are bundled in the job market and offers a practical, relevant foundation for anyone preparing to enter or grow within the data and analytics space.
 
-## Data Extraction, Cleaning and Preprocessing
 
