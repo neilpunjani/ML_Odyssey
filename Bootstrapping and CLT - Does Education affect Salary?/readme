@@ -1,9 +1,0 @@
-This analysis uses the concepts of Central Limit Theorem and Bootstrapping to gain a statistical understanding about two types of study
-
-1. In Person vs Remote Jobs - Is there a statistical difference between their means of salaries
-2. Bachelor's Degree vs Master's Degree vs Professional Degree - Is there a statistical difference in the means of their salaries.
-
-T-Tests will be used (1) and One Way ANOVA will be used for (2). While Bootstrapping will be used for both (1) and (2) to understand if the assumptions of the two statistical tests
-hold and generate a more robust hypothesis test that does not account for the underlying distribution. 
-
-This Repo Contains both the code in ipython as well as a summary report that discusses results. 
