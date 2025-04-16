@@ -4,7 +4,7 @@ One of the biggest challenges in education today is keeping course content align
 
 This project takes a data first approach to solving that problem.
 
-Using a custom web scraper, I collected over 1000 job postings from Indeed, targeting roles across management, data, analytics, and AI. From these postings, I applied natural language processing techniques to extract in demand technical and soft skills. This included both manually curated keywords and skill extraction using OpenAI's GPT API.
+Using a custom web scraper, I collected over 2400 job postings from Indeed, targeting roles across management, data, analytics, and AI. From these postings, I applied natural language processing techniques to extract in demand technical and soft skills. This included both manually curated keywords and skill extraction using OpenAI's GPT API.
 
 Once the raw text was transformed into structured data, I engineered relevant features such as skill frequency, co occurrence patterns, and contextual relationships between skills. I then applied two clustering algorithms: hierarchical clustering using a custom distance matrix, and K means using multidimensional engineered feature vectors. These were used to group similar skills into clusters that could represent individual courses.
 
